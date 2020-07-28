@@ -1,4 +1,4 @@
-I've made a GitHub repo that reproduces the example: https://github.com/jgale/AvailableiOS14Bug. I've also attached a .zip here, and pasted the code inline.
+I've made a GitHub repo that reproduces the example: https://github.com/jgale/AvailableiOS14Bug. I've also attached a .zip here, and pasted the code inline. I've filed a Feedback with Apple: FB8196677
 
 # Background
 

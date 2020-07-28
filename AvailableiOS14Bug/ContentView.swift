@@ -30,6 +30,7 @@ struct NormalCaseHeader: ViewModifier {
 
 extension View {
     func normalCase() -> some View {
+        print("AvailableiOS14Bug occurred here")
         return self.modifier(NormalCaseHeader())
     }
 }
