@@ -291,6 +291,7 @@
 				DEVELOPMENT_TEAM = WT2BYWJSRV;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = AvailableiOS14Bug/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -312,6 +313,7 @@
 				DEVELOPMENT_TEAM = WT2BYWJSRV;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = AvailableiOS14Bug/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
