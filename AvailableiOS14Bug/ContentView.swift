@@ -38,20 +38,13 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             Form {
-                Section(header: topContentView()) {
+                Section(header: Text("lowercase text")) {
                     Text("Item 1")
                     Text("Item 2")
                 }
                 .normalCase()
             }
             .navigationBarTitle("#if available bug")
-        }
-    }
-    
-    private func topContentView() -> some View {
-        return VStack(alignment: .leading, spacing: 16) {
-            Text("lowercase text")
-                .font(.headline)
         }
     }
 }
